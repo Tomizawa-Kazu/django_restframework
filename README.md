@@ -67,3 +67,7 @@ http://localhost:8004
 
 ### 画面イメージ
 ![画面](/img/image01.png) 
+
+### 補足
+- 環境変数について
+  - django_restのフォルダにenvirnmentsフォルダを作成し、その名に.envファイルを作成する
